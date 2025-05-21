@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: us6dy7vsn-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/us6dy7vsn-go
